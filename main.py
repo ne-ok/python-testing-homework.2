@@ -1,4 +1,4 @@
-import math
+import math # пробуем коммитить
 
 def calculate_average(numbers: list[float]) -> float | None:
     """
